@@ -11,7 +11,7 @@ Disclaimer: This project is only for educational and legal purpose. Do not attem
 
 ## Tuff photos
 <img width="1558" height="621" alt="image" src="https://github.com/user-attachments/assets/e1b71673-cb30-4801-a336-c67f0e7a5e73" />
-<img width="540" height="828" alt="unzine" src="https://github.com/user-attachments/assets/83681967-2825-4620-b65f-87a79745e7ab" />
+<img width="1080" height="1656" alt="image" src="https://github.com/user-attachments/assets/7c3432e2-dbb1-4d2a-95f4-f37ff5687ec8" />
 <img width="1086" height="496" alt="image" src="https://github.com/user-attachments/assets/2479a437-f7c3-47ef-9cd9-c9d32a0cacb4" />
 <img width="1066" height="504" alt="image" src="https://github.com/user-attachments/assets/9d051481-2aef-47ae-87fd-edd9bea5da38" />
 <img width="1476" height="952" alt="image" src="https://github.com/user-attachments/assets/f429990c-9303-4023-92d6-290283ac0ab4" />
